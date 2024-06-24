@@ -1,0 +1,2 @@
+# UniversityCampusEquipmentManagementSystem
+ 基于springboot的高校校园设备管理系统：，校园设备的日常管理、使用手册维护、台账等功能
